@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">iRSS</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+    <string name="username">Username</string>
+    <string name="text_username_empty">A username is required</string>
+    <string name="text_username_used">That username is already being used</string>
+    <string name="text_username_requirement">Use 3 to 16 characters,numbers,underscores and hyphens</string>
+
+    <string name="password">Password</string>
+    <string name="text_password_empty">A password is required</string>
+    <string name="text_password_requirement">Use 6 to 16 characters,numbers and punctuations </string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="text_sign_in_complete">Welcome!</string>
+    <string name="text_sign_in_progress">Signing in…</string>
+    <string name="text_sign_in_error">Wrong username or password, try again</string>
+
+    <string name="text_create_account">No account yet? Create one</string>
+
+    <string name="describe_open_drawer">Open drawer menu</string>
+    <string name="describe_close_drawer">Close drawer menu</string>
+
+    <string name="menu_feeds">Feeds</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="more">More</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help &amp; Feedback</string>
+
+    <string name="action_add_feed">Add feed</string>
+    <string name="text_add_feed_title">Add Feed</string>
+    <string name="text_feed_name">Feed name</string>
+    <string name="text_feed_url">Feed URL</string>
+    <string name="text_feed_url_prefix">http://www.ipc.me/</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="message_added_to_favorite">The article has been added to favorite.</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_article_detail">ArticleDetailActivity</string>
+
+
+</resources>
